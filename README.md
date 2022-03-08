@@ -10,4 +10,4 @@ node app.js remove --title="PRN"
 node app.js list
 
 # Read a Note
-node app.js add --title="PRN"
+node app.js read --title="PRN"
